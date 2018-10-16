@@ -1,0 +1,8 @@
+*.py[cod]
+spiderproject/*.scrapy_log
+.DS_Store
+
+env/
+deploy/
+/static_pub/
+fabfile.py
